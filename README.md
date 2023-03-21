@@ -12,4 +12,4 @@ Insert apply_exam.sql file to your database
 
 It should run perfectly
 
-If you have any questions just mail me
+If you have any questions just mail me yusuftrken@outlook.com
